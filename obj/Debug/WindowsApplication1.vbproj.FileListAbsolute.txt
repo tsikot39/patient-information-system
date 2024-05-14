@@ -1,0 +1,11 @@
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.search.resources
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\JBC\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

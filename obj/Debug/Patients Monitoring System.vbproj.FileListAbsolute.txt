@@ -1,0 +1,33 @@
+D:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.documentation.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.familycomposition.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.familyexpenses.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.login.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.psychosocial.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.search.resources
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\Patients Monitoring System.vbproj.GenerateResource.Cache
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\apps\mss\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\Patients Monitoring System.vbprojResolveAssemblyReference.cache
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.documentation.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.familycomposition.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.familyexpenses.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.login.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.psychosocial.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.search.resources
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\Patients Monitoring System.vbproj.GenerateResource.Cache
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\apps\mss\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
